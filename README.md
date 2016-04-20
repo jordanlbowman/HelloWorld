@@ -1,4 +1,4 @@
-Simple Hello World project
+Simple Hello World project. jbow
 
 To compile, execute the command
 ```sh
